@@ -1,11 +1,9 @@
 package helloworld.xuky.com.xuky03;
 
-/**
- * Created by Administrator on 2017/1/4.
- */
 public class XukyNote {
     int id;
     String msg;
+    String changeTest;
 
     public int getId() {
         return id;
